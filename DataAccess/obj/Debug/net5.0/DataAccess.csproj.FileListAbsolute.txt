@@ -1,0 +1,15 @@
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\olivi\OneDrive\Desktop\faculta\an3\sem2\PS\as2\LabzApplication\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
